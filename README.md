@@ -1,4 +1,4 @@
-# rag-ai-assistant
+# Rag-AI-Assistant
 
 A Flask-based AI assistant leveraging Retrieval-Augmented Generation (RAG) to help university students understand programming and AI concepts easily.
 
